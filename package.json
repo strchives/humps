@@ -22,7 +22,7 @@
   "author": "Dom Christie",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^2.2.5"
+    "mocha": "^6.2.3"
   },
   "bugs": {
     "url": "https://github.com/domchristie/humps/issues"
